@@ -44,3 +44,8 @@ client/app/**/*.js.map
 # .NET compiled files
 bin
 obj
+/.vs/WebApi/DesignTimeBuild/.dtbcache
+/.vs/WebApi/v16/Server/sqlite3/storage.ide
+/.vs/WebApi/v16/Server/sqlite3/storage.ide-shm
+/.vs/WebApi/v16/Server/sqlite3/storage.ide-wal
+/.vs/WebApi/v16/Server/sqlite3/db.lock

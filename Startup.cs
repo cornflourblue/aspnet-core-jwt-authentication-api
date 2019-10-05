@@ -6,8 +6,8 @@ using WebApi.Helpers;
 using WebApi.Services;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 namespace WebApi
 {
